@@ -16,7 +16,7 @@ This project is Basic Website which I used PHP and Laravel to create.
 * Compiling frontend assets with Laravel Mix
 * Laravel Collective Forms
 
-The following photo is the Sign Up page:
+The following photo is the Home page:
 
 ![alt text](media/BasicWebsite.PNG)
 
